@@ -1,6 +1,4 @@
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/iqrashjalil/Sparkleo_Test/blob/master/Project%20Video.mkv" type="video/mkv">
-
-  Your browser does not support the video tag.
+<video controls>
+    <source src="./Project Video.mkv" type="video/x-matroska">
+    Your browser does not support the video tag.
 </video>
